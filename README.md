@@ -7,4 +7,5 @@
 <a href="https://scratch.mit.edu/projects/1157547082/">Leaf Scratch Link</a>
 <h2>Developer and Credits</h2>
 <i>Vearish: Main developer, created ui element, code.</i>
+<br>
 <i>0un0: Helped with suggestions and module creating</i>
