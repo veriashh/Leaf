@@ -1,2 +1,1 @@
-# Leaf
-A cheat for scratch.
+<h align:center>Leaf</h1>
