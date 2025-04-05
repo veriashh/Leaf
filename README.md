@@ -5,3 +5,5 @@
 <p>2. After that put them all in your project</p><p>3. Find a variable module and change a behaviour of something whenever its on</p>
 <h2>Leaf:</h2>
 <a href="https://scratch.mit.edu/projects/1157547082/">Leaf Scratch Link</a>
+<h2>Developer and Credits</h2>
+<p><strong>Vearish</strong></p><p>: Main Developer and created Elements and Code.</p>
